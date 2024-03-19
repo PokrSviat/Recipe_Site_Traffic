@@ -9,4 +9,5 @@ Libraries: numpy, pandas, seaborn, matplolib, sklearn.
 The dataset of fictional site with recipes is from DataCamp.
 # Machine learning approach
 
-The given problem was solved by using the scikit-learn Logistic Regressin. The result is in the notebook Recipe_site_traffic.ipynb file.
+The given problem was solved by using the scikit-learn Logistic Regressin. The result is in the notebook Recipe_site_traffic.ipynb file. [a link](https://github.com/user/repo/blob/branch/other_file.md)
+      
