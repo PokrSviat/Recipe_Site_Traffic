@@ -5,8 +5,7 @@ The learning project from the DataCamp practical exam for Data Scientist Profess
 Libraries: numpy, pandas, seaborn, matplolib, sklearn.
 
 # Dataset
-
-The dataset of fictional site with recipes is from DataCamp.
+The [dataset](https://github.com/PokrSviat/Recipe_Site_Traffic/blob/main/recipe_site_traffic_2212.csv) of fictional site with recipes is from DataCamp.
 # Machine learning approach
 
 The given problem was solved by using the scikit-learn Logistic Regressin. The result is in the notebook [Recipe_site_traffic.ipynb](https://github.com/PokrSviat/Recipe_Site_Traffic/blob/main/Recipe_site_traffic.ipynb) file.
